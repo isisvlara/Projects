@@ -80,11 +80,13 @@ This multi-level approach enables proactive intervention and improved customer r
 ### **How to Use This Repository**
 
 1. **Clone the repository.**
-2. **Review the EDA notebook** to understand the data.
+2. **Review the Poject_one notebook** to understand the data.
 3. **Run the preprocessing scripts** to prepare the data.
 4. **Train models** using the provided scripts and tune hyperparameters as needed.
 5. **Evaluate results** using the metrics and confusion matrices provided.
 6. **Interpret model outputs** to inform business decisions on customer retention.
+
+Note: Data set stored in zip file
 
 ---
 
