@@ -19,6 +19,7 @@ Projects are organized by application area and techniques used, spanning both Py
 #### **Machine Learning & Predictive Analytics (Python)**
 - **Customer Churn Prediction**: Brief description of the project, highlighting the techniques and objectives.
 - **Detecting Parkinson's Disease**: Brief description of the project, highlighting the techniques and objectives.
+- **Wal-Mart Sales Forecasting**: Brief description of the project, highlighting the techniques and objectives.
 
 #### **Natural Language Processing (Python)**
 - **Speech Emotion Recognition**: Brief description of the project, highlighting the techniques and objectives.
