@@ -17,10 +17,10 @@ Welcome to my Data Science Project Portfolio! This repository is designed to doc
 Projects are organized by application area and techniques used, spanning both Python and R implementations.
 
 #### **Machine Learning & Predictive Analytics (Python)**
-- **[Customer Churn Prediction](https://github.com/isisvlara/Projects/tree/main/Machine%20Learning/Python/Churn%20Prediction%20in%20Telecommunications)**: A multi-level classification machine learning project that predicts both the category and reason for customer churn in the telecom industry to enable targeted retention strategies.
+- **[Customer Churn Prediction](https://isisvlara.github.io/Projects/Machine-Learning/Python/Churn-Prediction-in-Telecommunications)**: A multi-level classification machine learning project that predicts both the category and reason for customer churn in the telecom industry to enable targeted retention strategies.
 - **Detecting Parkinson's Disease**: This project uses machine learning techniques to accurately detect Parkinson's disease by analyzing features such as voice recordings and clinical data, enabling early diagnosis and improved patient outcomes
-- **[Wal-Mart Sales Forecasting](https://github.com/isisvlara/Projects/tree/main/Machine%20Learning/Python/Wal-mart%20Sales%20Forecasting)**: This project applies machine learning models to Walmart’s historical sales, store, and external data to accurately forecast weekly sales at the store and department level, with the goal of improving inventory management and operational efficiency.
-- **[Credit Card Default Predictions](https://github.com/isisvlara/Projects/tree/main/Machine%20Learning/Python/Predicting%20Credit%20Card%20Default)**: The case study focuses on designing a machine learning model to predict whether a borrower will default on a loan.
+- **[Wal-Mart Sales Forecasting](https://isisvlara.github.io/Projects/Machine-Learning/Python/Wal-mart-Sales-Forecasting)**: This project applies machine learning models to Walmart’s historical sales, store, and external data to accurately forecast weekly sales at the store and department level, with the goal of improving inventory management and operational efficiency.
+- **[Credit Card Default Predictions](https://isisvlara.github.io/Projects/Machine-Learning/Python/Predicting-Credit-Card-Default)**: The case study focuses on designing a machine learning model to predict whether a borrower will default on a loan.
 
 #### **Natural Language Processing (Python)**
 - **[Speech Emotion Recognition](https://github.com/isisvlara/Projects/tree/main/NLP/Python/Speech%20Emotion%20Recognition)**: A project using natural language processing and machine learning techniques to analyze acoustic features from audio signals and accurately classify the emotional states—such as happiness, sadness, anger, or fear—conveyed in spoken language.
@@ -44,6 +44,6 @@ I am a passionate data science student dedicated to continuous learning and grow
 **Connect with me:**
 
 | [GitHub Repo](https://github.com/isisvlara/Projects) | [Email](isisv.lara@gmail.com) | [LinkedIn](https://www.linkedin.com/in/isisvictorialarafernandez/) | [Bold.pro](https://bold.pro/my/isis-larafernandez-250326173510) |
-|---|-------------------------------|--------------|--------------|
+
 
 Feel free to explore my work, reach out with questions, or connect on any of the platforms above!
