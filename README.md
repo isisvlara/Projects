@@ -17,13 +17,13 @@ Welcome to my Data Science Project Portfolio! This repository is designed to doc
 Projects are organized by application area and techniques used, spanning both Python and R implementations.
 
 #### **Machine Learning & Predictive Analytics (Python)**
-- **Customer Churn Prediction**: A multi-level classification machine learning project that predicts both the category and reason for customer churn in the telecom industry to enable targeted retention strategies.
+- **[Customer Churn Prediction](https://github.com/isisvlara/Projects/tree/main/Machine%20Learning/Python/Churn%20Prediction%20in%20Telecommunications)**: A multi-level classification machine learning project that predicts both the category and reason for customer churn in the telecom industry to enable targeted retention strategies.
 - **Detecting Parkinson's Disease**: This project uses machine learning techniques to accurately detect Parkinson's disease by analyzing features such as voice recordings and clinical data, enabling early diagnosis and improved patient outcomes
-- **Wal-Mart Sales Forecasting**: This project applies machine learning models to Walmart’s historical sales, store, and external data to accurately forecast weekly sales at the store and department level, with the goal of improving inventory management and operational efficiency.
-- **Credit Card Default Predictions**: The case study focuses on designing a machine learning model to predict whether a borrower will default on a loan.
+- **[Wal-Mart Sales Forecasting](https://github.com/isisvlara/Projects/tree/main/Machine%20Learning/Python/Wal-mart%20Sales%20Forecasting)**: This project applies machine learning models to Walmart’s historical sales, store, and external data to accurately forecast weekly sales at the store and department level, with the goal of improving inventory management and operational efficiency.
+- **[Credit Card Default Predictions](https://github.com/isisvlara/Projects/tree/main/Machine%20Learning/Python/Predicting%20Credit%20Card%20Default)**: The case study focuses on designing a machine learning model to predict whether a borrower will default on a loan.
 
 #### **Natural Language Processing (Python)**
-- **Speech Emotion Recognition**: A project using natural language processing and machine learning techniques to analyze acoustic features from audio signals and accurately classify the emotional states—such as happiness, sadness, anger, or fear—conveyed in spoken language.
+- **[Speech Emotion Recognition](https://github.com/isisvlara/Projects/tree/main/NLP/Python/Speech%20Emotion%20Recognition)**: A project using natural language processing and machine learning techniques to analyze acoustic features from audio signals and accurately classify the emotional states—such as happiness, sadness, anger, or fear—conveyed in spoken language.
 
 #### **Deep Learning (Python)**
 - **[Project Name]**: Brief description of the project, highlighting the techniques and objectives.
