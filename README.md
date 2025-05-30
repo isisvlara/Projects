@@ -23,7 +23,7 @@ Projects are organized by application area and techniques used, spanning both Py
 - **[Credit Card Default Predictions](https://isisvlara.github.io/Projects/Machine-Learning/Python/Predicting-Credit-Card-Default)**: The case study focuses on designing a machine learning model to predict whether a borrower will default on a loan.
 
 #### **Natural Language Processing (Python)**
-- **[Speech Emotion Recognition](https://github.com/isisvlara/Projects/tree/main/NLP/Python/Speech%20Emotion%20Recognition)**: A project using natural language processing and machine learning techniques to analyze acoustic features from audio signals and accurately classify the emotional states—such as happiness, sadness, anger, or fear—conveyed in spoken language.
+- **[Speech Emotion Recognition](https://isisvlara.github.io/Projects/NLP/Python/Speech-Emotion-Recognition)**: A project using natural language processing and machine learning techniques to analyze acoustic features from audio signals and accurately classify the emotional states—such as happiness, sadness, anger, or fear—conveyed in spoken language.
 
 #### **Deep Learning (Python)**
 - **[Project Name]**: Brief description of the project, highlighting the techniques and objectives.
@@ -34,6 +34,8 @@ Projects are organized by application area and techniques used, spanning both Py
 #### **Natural Language Processing (R)**
 - **[Project Name]**: Brief description of the project, highlighting the techniques and objectives.
 
+#### **Use of AI***
+- **[Content Generator](https://isisvlara.github.io/Projects/AI/Launch_Post_Generator)**: A tool that leverages artificial intelligence models to automatically create customized text content based on user prompts or requirements (API Key required for use).
 
 ---
 
